@@ -14,7 +14,7 @@ function problem3(inventory){
             }
         } 
     }
-    let result=[]
+    let result=[];
     for(let i=0 ; i<carModel.length;i++){
         for(let j=0;j<inventory.length;j++){
             if(carModel[i]==(inventory[j].car_model)){
@@ -25,6 +25,4 @@ function problem3(inventory){
     }
     return result;
 }
-
-
 module.exports.problem3=problem3;
