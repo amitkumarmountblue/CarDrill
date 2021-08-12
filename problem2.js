@@ -5,4 +5,4 @@ function problem2(inventory){
     }
     return "Last car is a "+ element.car_make+' '+ element.car_model;
 }
-module.exports.problem2=problem2;
+module.exports=problem2;

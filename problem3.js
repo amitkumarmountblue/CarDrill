@@ -25,4 +25,4 @@ function problem3(inventory){
     }
     return result;
 }
-module.exports.problem3=problem3;
+module.exports=problem3;

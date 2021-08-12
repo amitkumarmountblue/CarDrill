@@ -9,4 +9,7 @@ function problem1(inventory,n){
         }
     }  
 }
-module.exports.problem1=problem1;
+module.exports=problem1;
+
+
+

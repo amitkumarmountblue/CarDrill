@@ -6,4 +6,4 @@ function problem4(inventory){
     return carYears;
 }
 
-module.exports.problem4=problem4;
+module.exports=problem4;

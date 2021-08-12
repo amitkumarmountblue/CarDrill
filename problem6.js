@@ -9,4 +9,4 @@ function problem6(inventory){
     }
     return BMWAndAudi;
 }
-module.exports.problem6=problem6;
+module.exports=problem6;
